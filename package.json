@@ -5,10 +5,10 @@
   "type": "module",
   "exports": {
     "pane.css": {
-      "import": "./src/pane.css.js"
+      "import": "./lib/pane.css.js"
     },
     "drawer.css": {
-      "import": "./src/drawer.css.js"
+      "import": "./lib/drawer.css.js"
     }
   },
   "scripts": {
