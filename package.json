@@ -1,0 +1,20 @@
+{
+  "name": "custom-shared-styles",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "exports": {
+    "pane.css": {
+      "import": "./src/pane.css.js"
+    }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "@vandeurenglenn/lite": "^0.2.49"
+  }
+}
