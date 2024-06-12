@@ -5,10 +5,12 @@
   "type": "module",
   "exports": {
     "pane.css": {
-      "import": "./lib/pane.css.js"
+      "import": "./lib/pane.css.js",
+      "types": "./types.d.ts"
     },
     "drawer.css": {
-      "import": "./lib/drawer.css.js"
+      "import": "./lib/drawer.css.js",
+      "types": "./types.d.ts"
     }
   },
   "scripts": {
