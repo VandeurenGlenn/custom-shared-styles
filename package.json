@@ -6,6 +6,9 @@
   "exports": {
     "pane.css": {
       "import": "./src/pane.css.js"
+    },
+    "drawer.css": {
+      "import": "./src/drawer.css.js"
     }
   },
   "scripts": {
