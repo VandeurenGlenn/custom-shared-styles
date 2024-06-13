@@ -4,11 +4,11 @@
   "description": "",
   "type": "module",
   "exports": {
-    "pane.css": {
+    "./pane.css": {
       "import": "./lib/pane.css.js",
       "types": "./types.d.ts"
     },
-    "drawer.css": {
+    "./drawer.css": {
       "import": "./lib/drawer.css.js",
       "types": "./types.d.ts"
     }
