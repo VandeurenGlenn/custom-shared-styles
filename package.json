@@ -11,6 +11,10 @@
     "./drawer.css": {
       "import": "./lib/drawer/drawer.css.js",
       "types": "./types.d.ts"
+    },
+    "./top-app-bar.css": {
+      "import": "./lib/app-bar/top-app-bar.css.js",
+      "types": "./types.d.ts"
     }
   },
   "scripts": {
