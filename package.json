@@ -4,15 +4,15 @@
   "description": "",
   "type": "module",
   "exports": {
-    "./pane": {
+    "./pane.css": {
       "import": "./lib/pane/pane.css.js",
       "types": "./types.d.ts"
     },
-    "./drawer": {
+    "./drawer.css": {
       "import": "./lib/drawer/drawer.css.js",
       "types": "./types.d.ts"
     },
-    "./top-app-bar": {
+    "./top-app-bar.css": {
       "import": "./lib/app-bar/top-app-bar.css.js",
       "types": "./types.d.ts"
     }
